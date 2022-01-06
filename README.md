@@ -1,8 +1,9 @@
 # Used protocols:
+TCP
 - HTTP
 - FTP (client and server)
 - SMTP
-- POP3
+- POP3 (using SSL)
 
 ## Domain 1: File storage server app and client
 The server is offers posibility to connect different users. It has a database for account and file details storage. The details include file description and uploading date.
