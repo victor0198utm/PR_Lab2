@@ -1,0 +1,8 @@
+github.com/goftp/file-driver v0.0.0-20180502053751-5d604a0fc0c9 h1:cC0Hbb+18DJ4i6ybqDybvj4wdIDS4vnD0QEci98PgM8=
+github.com/goftp/file-driver v0.0.0-20180502053751-5d604a0fc0c9/go.mod h1:GpOj6zuVBG3Inr9qjEnuVTgBlk2lZ1S9DcoFiXWyKss=
+github.com/goftp/server v0.0.0-20200708154336-f64f7c2d8a42 h1:JdOp2qR5PF4O75tzHeqrwnDDv8oHDptWyTbyYS4fD8E=
+github.com/goftp/server v0.0.0-20200708154336-f64f7c2d8a42/go.mod h1:k/SS6VWkxY7dHPhoMQ8IdRu8L4lQtmGbhyXGg+vCnXE=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible h1:gXHsfypPkaMZrKbD5209QV9jbUTJKjyR5WD3HYQSd+U=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
